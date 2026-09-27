@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# AI-readable portfolio summary
-# https://HOST/llms.txt
